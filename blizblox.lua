@@ -573,7 +573,7 @@ elseif game.PlaceId == 93140024895832 then
 	local af_drop =
 		a:Dropdown(
 			"Auto Fram",
-			{"Thug [Level 5]", "HumonUser [Level 15]", "Gryphon [Level 30]", "Vampire [Level 40]", "Snow Thug [Level 50]", "Snowman [Level 65]", "Wammu", "Desert Bandit [Level 95]", "Desert Monster [Level 120]", "Dio Guard [Level 165]", "Dio Royal Guard [Level  180]", "School Bully  [Level 270]", "City Criminal  [Level 280]", "Criminal Master [Level 300]"},
+			{"Special Force [Level 425]","Gangster [Level 450]","Mafia [Level 475]","Elite Mafia [Level 500]"},
 			function(bool)
 				af_select = bool
 			end
